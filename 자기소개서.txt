@@ -1,0 +1,235 @@
+<html>
+<head>
+        <meta charset="utf-8">
+     <title>초기 화면</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+ 
+
+<body background=contbg.jpg>
+</body>
+
+</html>
+
+1-----------------------------------------------------------
+
+<html>
+        <meta charset="utf-8">
+<head>
+     <title>프로필</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+ 
+
+<body bgcolor=#FFF0F5>
+     <font size=6 color=#DB7093><b>프로필</b></font>
+     <br><br>
+     <table border=1 bordercolor=skyblue>
+          <tr>
+               <th rowspan=2><img src="dch.jpg" width=80 height=100></th>
+               <th>한글</th>
+               <td align=center>윤석찬</td>  
+               <th>생년월일</th>
+               <td align=center>1993.11.03.</td>
+          </tr>
+          <tr>
+               <th align=center>한문</th>
+               <td>尹錫燦</td>  
+               <th>주소지</th>
+               <td align=center>인천광역시 서구</td>
+          </tr>
+          <tr>
+               <th colspan=2>연락처</th>
+               <td colspan=3 align=center>010.2248.2504</td>
+          </tr>
+     </table>
+
+</body>
+
+</html>
+
+2---------------------------------------------------------------------------------------------
+
+<html>
+        <meta charset="utf-8">
+<head>
+     <title>지원 동기</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+ 
+
+<body bgcolor=#FFF0F5>
+
+     <font size=6 color=#DB7093><b>지원 동기</b></font>
+
+     <p>오늘보다 내일이 행복하기를 바라는 것은 인간이라면 
+         누구나 가지는 마치 본능과 같은 것입니다. 
+         하지만 오늘의 노력이 없다면 내일 행복하기란 어려운 일입니다. 
+         그러기에 오늘 노력하는 것은 당연한 일입니다. 
+         저는 그러한 생각으로 목표를 세웠고, 그를 이루기 위해서는 노력하고 있습니다. 
+         귀사에서, 귀사와 함께, 귀사를 위해서 행복한 미래를 만들어 가고 싶습니다.
+     </p>
+
+</body>
+
+</html>
+
+3---------------------------------------------------------------------------------------------------
+
+<html>
+        <meta charset="utf-8">
+<head>
+     <title>특기 및 경력사항</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+ 
+
+<body bgcolor=#FFF0F5>
+     <font size=6 color=#DB7093><b>특기 및 경력사항</b></font>
+
+
+     <table border=1 bordercolor=skyblue>
+           <tr>
+                <th colspan=3>년 월 일</th>
+                <th>학력 및 경력 사항</th>
+                <th>비고</th>
+           </tr>
+
+           <tr>
+                <td>2017</td>
+                <td>02</td>
+                <td>부천대학교 전자공학과 졸업</td>
+                <td>졸업</td>
+           </tr>
+           <tr>
+                <td>2015</td>
+                <td>7</td>
+                <td>20</td>
+                <td>2019</td>
+                <td>5</td>
+                <td>10</td>
+                <td>DB하이텍 Etch 장비엔지니어 입사</td>
+                <td>3년 6개월 근무</td>
+           </tr>
+        
+           <tr>
+                <td>2012</td>
+                <td>02</td>
+                <td>14</td>
+                <td>인천 원당고등학교 졸업</td>
+                <td> .</td>
+           </tr>
+     </table>
+</body>
+
+</html>
+
+4-----------------------------------------------------------------------------------------
+
+<html>
+        <meta charset="utf-8">
+<head>
+     <title>성격의 장/단점</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+ 
+
+<body bgcolor=#FFF0F5>
+     <font size=6 color=#DB7093><b>성격의 장/단점</b></font>
+     <p>Just do it!!!
+저는 목표를 세우기를 즐깁니다. 항상 앞으로 얼마 후 무엇이 되어있어야겠다는 식의 간단한 목표를 정하고 그것이 달성되면 다시 새로운 목표를 세우면서 하나씩 이루어내는 과정을 즐기는 편입니다.
+목표가 있다보니 매사에 성실하게 되었습니다. 이것이 저의 가장 큰 장점입니다.
+또한, 어떠한 일에 몰입하면 그것이 해결이 되거나, 스스로 해냈다는 성취감을 느끼지 못하면 절대로 물러서지 않는 스타일입니다. 이러한 점이 장점이기도하나 다른 한편으로는 단점이 될 수도 있는 부분이기에, 좋은 면은 부각시키려고 노력하며 이것이 일을 처리하는데 걸림돌이 되지 않게 하기 위해 노력하고 있습니다.
+     </p>
+
+</body>
+
+</html>
+
+5----------------------------------------------------------------------------------------------------------
+
+<html>
+        <meta charset="utf-8">
+<head>
+     <title>성장 배경</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+ 
+
+<body bgcolor=#FFF0F5>
+     <font size=6 color=#DB7093><b>성장 배경</b></font>
+
+     <p> 집요함이면 다 된다는 일념하나로
+        하루하루 힘든 일을 하시지만 언제나 성실하시고 때론 보수적이신 부모님과 함께 생활함으로써 예의와 성실을 배우며 성장하였습니다.
+ 학생회의  동아리장 직책을 맡아 활동하면서 책임감을 갖게 되었고 학교 구성원들간의 화합을 이끌어 가려는 노력을 통해서 사회인으로서의 기초를 배우게 되었습니다.
+     </p>
+
+</body>
+
+</html>
+
+6----------------------------------------------------------------------------------------------------------------------------
+
+<html>
+        <meta charset="utf-8">
+<head>
+     <title>메뉴</title>
+     <link rel="stylesheet" type="text/css" href="menuStyle.css">
+</head>
+
+ 
+
+<body background="menubg.jpg">
+
+    <p><a href="introduce1.html" target="right"><img src="intro0.jpg"></a></p>
+    <p><a href="introduce2.html" target="right"><img src="intro1.jpg"></a></p>
+    <p><a href="introduce3.html" target="right"><img src="intro2.jpg"></a></p>
+    <p><a href="introduce4.html" target="right"><img src="intro3.jpg"></a></p>
+    <p><a href="introduce5.html" target="right"><img src="intro4.jpg"></a></p>
+    <p><a href="introduce6.html" target="right"><img src="intro5.jpg"></a></p>
+
+</body>
+
+</html>
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+<html>
+        <meta charset="utf-8">
+<head>
+     <title>입사 후 포부</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+ 
+
+<body bgcolor=#FFF0F5>
+     <font size=6 color=#DB7093><b>입사 후 포부</b></font>
+
+     <p><img src="sigma6.jpg"></p>
+
+     <p> 최고의 품질을 확보하려는 것은 이제 기업들에게 있어 
+         더 이상 이상적인 목표가 아니라 기본적인 요구사항입니다. 
+         최근 들어 품질에 대한 인식이 더욱 강하게 자리잡으면서 
+         선진국 일부 기업이 채택하고 있는 불량률 제로를 위한 
+         6시그마 활동이 국내에도 급속히 확산되어  
+         이제 전 세계적으로 퍼지게 된 6시그마 기법은 
+         그 목표를 제조나 생산부문에만 국한되는 것이 
+         아닌 고객에 대한 서비스부문에도 없어는 안 될 약방의 감초라 생각합니다. 
+         이러한 생각을 기본으로 저로부터 이루어지는 
+         작은 서비스로 인하여 만족을 느끼는 고객으로부터 일의 보람을 느끼며, 
+         더 나아가 그동안 쌓아왔던 귀사의 좋은 이미지에 작은 나사의 
+         역할을 할 수 있도록 항상 겸손한 마음으로 노력하겠습니다.
+     </p>
+
+</body>
+
+</html>
+
+
